@@ -3,7 +3,7 @@
 Challenge your brain with **Math Quest Escape Room**, an interactive and fun STEM-focused escape room game! Solve mathematical puzzles to progress through various rooms and test your problem-solving skills.
 
 ![Game Screenshot](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/194/855/datas/gallery.jpg)  
-*(Add an engaging screenshot of your game here)*
+
 
 ---
 

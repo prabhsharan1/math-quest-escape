@@ -11,9 +11,6 @@ An interactive STEM-focused escape room game where players solve mathematical pu
 - **Real-time Feedback**: Instant feedback on your answers and progress
 - **Timer System**: Track how quickly you can escape all rooms
 
-## 🚀 Live Demo
-
-Visit the live demo: [Math Quest Escape Room](https://lovable.dev/projects/70ec941d-2f86-402d-b407-682f39c00f8c)
 
 ## 💻 Technologies Used
 

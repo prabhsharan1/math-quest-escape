@@ -25,7 +25,7 @@ An interactive STEM-focused escape room game where players solve mathematical pu
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/prabhsharan1/math-quest-escape
 ```
 
 2. Install dependencies:

@@ -6,8 +6,9 @@ Challenge your brain with **Math Quest Escape Room**, an interactive and fun STE
 
 ---
 
-## 🏆 Achievements
-- **Winner of Code Pi Innovation Challenge 2024** *(Best Educational Value)*
+## 🏆 Winner of CodePi Innovation Challenge 2024  
+### **Award**: Best Educational Value  
+The CodePi Innovation Challenge is a prestigious hackathon where creativity meets STEM. This game was recognized for making math exciting and engaging for middle schoolers through an interactive and educational platform.
 
 ---
 
@@ -82,6 +83,14 @@ Contributions are highly encouraged! To get started:
 ## 📃 License
 
 This project is open-source and available under the [MIT License](LICENSE). Feel free to use, modify, and distribute it!
+
+---
+
+## 🌟 About CodePi Innovation Challenge 2024
+
+The **CodePi Innovation Challenge** is a hackathon that celebrates creativity in STEM education through coding. The challenge aims to inspire solutions that simplify and gamify STEM concepts, making learning enjoyable and accessible. 
+
+**Math Quest Escape Room** was designed to align with this mission, creating a platform that fosters exploration, critical thinking, and problem-solving in a fun, interactive way for middle school students.
 
 ---
 

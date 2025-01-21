@@ -4,6 +4,10 @@ Challenge your brain with **Math Quest Escape Room**, an interactive and fun STE
 
 ![Game Screenshot](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/194/855/datas/gallery.jpg)  
 
+---
+
+## 🏆 Achievements
+- **Winner of Code Pi Innovation Challenge 2024** *(Best Educational Value)*
 
 ---
 

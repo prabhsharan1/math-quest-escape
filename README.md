@@ -14,10 +14,10 @@ The CodePi Innovation Challenge is a prestigious hackathon where creativity meet
 
 ### **Prizes Won** 🎁
 - 🏅 **Best Educational Value Winner**
-- 🎟️ **$99 Sublime Text or Merge (Your Choice) License Key**
-- 🎓 **2x $50 Interview Cake 7-Day Full Access License**
-- 🌐 **2x .xyz Domains for 1 Year Each**
-- 🔐 **$60 1-Year Subscription of 1Password Families**
+- 🎟️ **$99 Sublime Text or Merge (Your Choice) [License Key](https://giphy.com/gifs/rickroll-rick-astley-never-gonna-give-you-up-Vuw9m5wXviFIQ)**
+- 🎓 **2x $50 Interview Cake 7-Day Full Access License [License Key](https://giphy.com/gifs/rickroll-rick-astley-never-gonna-give-you-up-Vuw9m5wXviFIQ)**
+- 🌐 **2x .xyz Domains for 1 Year Each  [License Key](https://giphy.com/gifs/rickroll-rick-astley-never-gonna-give-you-up-Vuw9m5wXviFIQ)**
+- 🔐 **$60 1-Year Subscription of 1Password Families  [License Key](https://giphy.com/gifs/rickroll-rick-astley-never-gonna-give-you-up-Vuw9m5wXviFIQ)**
 
 Awarded to the project that excels in teaching STEM concepts in an engaging and innovative way.
 

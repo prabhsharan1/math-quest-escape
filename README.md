@@ -45,6 +45,12 @@ Awarded to the project that excels in teaching STEM concepts in an engaging and 
 
 ---
 
+## Recognition 🏆
+
+This project was also a winner in the **Dev Challenge Hackathon**, recognized for its innovative approach to STEM education and engaging math puzzles.
+
+---
+
 ## 🛠️ Installation & Setup
 
 ### Step 1: Clone the Repository
